@@ -17,6 +17,6 @@
     "express": "^4.16.3",
     "lodash": "^4.17.21",
     "mongodb": "^4.0.0",
-    "mongoose": "^5.13.3"
+    "mongoose": "^5.13.15"
   }
 }
