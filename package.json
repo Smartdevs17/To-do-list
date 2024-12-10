@@ -14,9 +14,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.21.2",
     "lodash": "^4.17.21",
     "mongodb": "^4.0.0",
-    "mongoose": "^5.13.3"
+    "mongoose": "^8.8.3"
   }
 }
